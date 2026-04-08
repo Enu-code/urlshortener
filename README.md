@@ -53,16 +53,6 @@ Short links are processed by [TinyURL](https://tinyurl.com).
 
 ---
 
-## Installation
-
-```bash
-# Clone the repo
-git clone <YOUR_REPO_URL>
-
-# Install dependencies
-cd url-shortener
-npm install
-
-# Run locally
-npm run dev
-```
+## Credits
+Original project by berkinyilmaz  
+Modified and customized by Enu-code
